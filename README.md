@@ -1,4 +1,4 @@
-# Glynac Family Tree Challenge
+# Lengaburu Family Tree Challenge
 
 ## Overview
 This solution implements the planet of Lengaburu family tree challenge in TypeScript using an extensible OOP-oriented design.
