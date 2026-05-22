@@ -1,0 +1,10 @@
+ADD_CHILD Flora Molly Female
+GET_RELATIONSHIP Bill Son
+GET_RELATIONSHIP Bill Daughter
+GET_RELATIONSHIP Victoire Paternal-Uncle
+GET_RELATIONSHIP Louis Maternal-Aunt
+ADD_CHILD Unknown Bob Male
+ADD_CHILD Bill Bob Male
+GET_RELATIONSHIP Bill Alien
+ADD_CHILD Flora
+ADD_CHILD Flora Bob Alien
